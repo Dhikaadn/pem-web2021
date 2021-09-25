@@ -1,0 +1,133 @@
+.ko1{
+	margin:-0.7% -0.7%;
+	position:absolute;
+	width:98.1%;
+	height:17%;
+	padding:0% 1%;
+	background-color: blue;
+}
+
+.BioMhs{
+	margin:7% 25%;
+	position:absolute;
+	width:50%;
+	height:17%;
+	padding:1px;
+}
+
+.ko2{
+	margin:12% 30%;
+	position:absolute;
+	width:40%;
+	height:10%;
+	padding:0% 1%;
+	/* background-color: red; */
+}
+
+
+.fa {
+  padding: -3% -2%;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0% 0.5%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  /* background: #3B5998; */
+  color: white;
+}
+
+.fa-instagram {
+  /* background: #125688; */
+  color: white;
+}
+
+.fa-twitter {
+  /* background: #55ACEE; */
+  color: white;
+}
+
+img  {
+	margin: 15% 14%;
+}
+
+.krs{
+	margin: -8% 30%;
+}
+
+.tabel{
+	margin: 10% 30%;
+	width: 60%;
+	border: 1px solid black;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+th{
+	background-color: blue;
+}
+
+.org{
+	margin: -5% 30%;
+}
+
+.tabel2{
+	margin: 7% 30%;
+	width: 50%;
+	border: 1px solid black;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: -25% 50%;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: blue; 
+  color: black; 
+  border: 2px solid blue;
+}
+
+.button1:hover {
+  background-color: red;
+  color: white;
+}
+
+.vid{
+	margin:-80% 80%;
+	position:absolute;
+	width:5%;
+	height:10%;
+	padding:0% 1%;
+	background-color: blue;
+}
+
+iframe{
+	margin: 20% 30%;
+}
+
+.profil{
+	margin: 10% 5%;
+	position:absolute;
+	width:20%;
+	height:17%;
+	padding:0% 1%;
+}
+
+
