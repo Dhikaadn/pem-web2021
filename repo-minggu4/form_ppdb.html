@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Form PPDB</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="ppdb.css">
+	</head>
+	
+	<style>
+	
+	</style>
+	
+	<body>
+		<img src="logo.png">
+		<div class="text1">
+			<h2><font color="white" face="calibri" size="20"><b>Formulir PPDB 2021<br>SMAN 14 Semarang</b></font></h2>
+		</div>
+		
+		<div class="form1">
+			
+			<div class="atas1">
+				<h3>INFO PENDAFTARAN</h3>
+			</div>
+			
+			<div class="bawah1">
+				<form action="proses.php" method="post">
+					<table>
+						<tr>
+							<td><label>NISN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</label></td>
+							<td><input type="text" name="fnisn"></td><br>
+						</tr>
+						<tr>
+							<td><label>Asal Sekolah :</label></td>
+							<td><input type="text" name="fsekolah"></td>
+						</tr>
+						<tr>
+							<td><label>Tahun Lulus :</label></td>
+							<td><input type="number" name="flulus" placeholder="example, 2020"></td>
+						</tr>
+					</table>
+				</form>
+			</div>
+			
+			<div class="atas2">
+				<h3>DATA CALON PESERTA</h3>
+			</div>
+			
+			<div class="bawah2">
+				<form action="proses.php" method="post">
+					<table>
+						<tr>
+							<td><label>Nama Lengkap:</label></td>
+							<td><input type="text" name="fnama"></td><br>
+						</tr>
+						<tr>
+							<td><label>NIK :</label></td>
+							<td><input type="number" name="fnik"></td>
+						</tr>
+						<tr>
+							<td><label>Tempat/Tanggal Lahir</label></td><br>
+						</tr>
+						<tr>
+							<td><label>Tempat :</label></td>
+							<td><input type="text" name="ftempat"></td>
+						</tr>
+						<tr>
+							<td><label>Tanggal Lahir :</label></td>
+							<td><input type="date" name="ftanggal"></td>
+						</tr>
+						<tr>
+							<td><label>Jenis Kelamin :</label></td>
+							<td><label><input type="radio" name="fsex" value="laki-laki">Laki-laki</label></td>
+							<td><label><input type="radio" name="fsex" value="perempuan">Perempuan</label></td>
+						</tr>
+						<tr>
+							<td><label>Alamat</label></td>
+						</tr>
+						<tr>
+							<td><label>Desa/Kel. :</label></td>
+							<td><input type="text" name="fdesa1"></td>
+						</tr>
+						<tr>
+							<td><label>Kecamatan :</label></td>
+							<td><input type="text" name="fkec1"></td>
+						</tr>
+						<tr>
+							<td><label>Kabupaten :</label></td>
+							<td><input type="text" name="fkab1"></td>
+						</tr>
+						<tr>
+							<td><label>Provinsi :</label></td>
+							<td><input type="text" name="fprov1"></td>
+						</tr>
+						<tr>
+							<td><label>Email Aktif :</label></td>
+							<td><input type="email" name="femail" placeholder="@Your email"></td>
+						</tr>
+					</table>
+			</div>
+			
+			<div class="atas3">
+				<h3>DATA ORANG TUA</h3>
+			</div>
+			
+			<div class="bawah3">
+				<form action="proses.php" method="post">
+					<table>
+						<tr>
+							<td><label>No Kartu Keluarga :</label></td>
+							<td><input type="number" name="fkk"></td><br>
+						</tr>
+						<tr>
+							<td><label>Nama Ayah Kandung</label></td>
+							<td><input type="text" name="fayah"></td>
+						</tr>
+						<tr>
+							<td><label>Agama :</label></td>
+							<td><input type="text" name="fagama1"></td>
+						</tr>
+						<tr>
+							<td><label>Pekerjaan :</label></td>
+							<td><input type="text" name="fkerja1"></td>
+						</tr>
+						<tr>
+							<td><label>Nama Ibu Kandung :</label></td>
+							<td><input type="text" name="fibu"></td>
+						</tr>
+						<tr>
+							<td><label>Agama:</label></td>
+							<td><input type="text" name="fagama2"></td>
+						</tr>
+						<tr>
+							<td><label>Pekerjaan :</label></td>
+							<td><input type="text" name="fkerja2"></td>
+						</tr>
+						<tr>
+							<td><label>Alamat Orang Tua</label></td>
+						</tr>
+						<tr>
+							<td><label>Desa/Kel. :</label></td>
+							<td><input type="text" name="fdesa2"></td>
+						</tr>
+						<tr>
+							<td><label>Kecamatan :</label></td>
+							<td><input type="text" name="fkec2"></td>
+						</tr>
+						<tr>
+							<td><label>Kabupaten :</label></td>
+							<td><input type="text" name="fkab2"></td>
+						</tr>
+						<tr>
+							<td><label>Provinsi :</label></td>
+							<td><input type="text" name="fprov2"></td>
+						</tr>
+					</table>
+					<div class="sub">
+						<tr>
+							<td><input class="subty" type="submit" value="Submit" name="fsubmit" /></td>
+						</tr>
+					</div>
+				</form>
+			</div>	
+	</body>
+</html>

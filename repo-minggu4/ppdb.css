@@ -1,0 +1,79 @@
+.text1{
+	margin: -20% 34%;
+}
+
+.form1{
+	border-radius: 10px;
+	padding: 20% 2%;
+	margin: 24% 10%;
+	background: white;
+	height: 0%;
+	padding-bottom: 0%;
+}
+
+body {
+background: url(sma14.jpg) no-repeat;
+background-size: 100% 100%;
+background-attachment:fixed;
+}
+
+img{
+	margin: 7% 10%;
+}
+
+
+
+.atas1{
+	margin: -25% 0%;
+	padding: 0% 3%;
+	width: 60%;
+	height: 10%;
+	background: blue;
+}
+
+.bawah1{
+	padding: 23% 0%;
+}
+
+.atas2{
+	margin: -23% 0%;
+	padding: 0% 3%;
+	width: 60%;
+	height: 10%;
+	background: blue;
+}
+
+.bawah2{
+	padding: 19% 0%;
+}
+
+.atas3{
+	margin: -19% 0%;
+	padding: 0% 3%;
+	width: 60%;
+	height: 10%;
+	background: blue;
+}
+
+.bawah3{
+	padding: 17% 0%;
+}
+
+.sub{
+	padding: 2% 0%;
+	margin: 0% 0%;	
+}
+
+.subty{
+	border-radius: 10px;
+	color: white;
+	background: red;
+	border: none;
+	padding: 12px;
+	width: 10%;
+}
+
+.subty:hover{
+	color: white;
+	background: #33FF3E;
+}
