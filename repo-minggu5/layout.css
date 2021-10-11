@@ -1,0 +1,29 @@
+header{
+	background-color: red;
+	height: 10%;
+	padding: 7% 10%;
+	margin: -1% -1%;
+	width: 81.60%;
+}
+
+.belajar{
+	margin: -3% 0%;
+}
+
+nav{
+	background-color: yellow;
+	padding: 1% 45%;
+	margin: 0% -1%;
+	width: 11.6%;
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	padding: -15% 40%;
+}
+
+a:hover{
+	color: red;
+}
