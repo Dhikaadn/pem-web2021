@@ -1,0 +1,408 @@
+.head1{
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	position:absolute;
+	width: 100%;
+	height: 115%;
+	top: 0px;
+	left: 0px;
+	background: url(gbr1.jpg)no-repeat;
+}
+
+
+
+.sewa_txt{
+	position:absolute;
+	color: white;
+	margin: 3% 5%;
+	padding: 0% 0%;
+	font-size: 40px;
+}
+
+.tempatnya_txt{
+	position:absolute;
+	font-family: cursive;
+	color: white;
+	width: 70%;
+	margin: 22% 18%;
+	padding: 0% 0%;
+	font-size: 55px;
+}
+
+
+
+.home{
+	position:absolute;
+	margin: 1% 63%;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.home:hover{
+	font-size: 25px;
+}
+
+.menu{
+	position:absolute;
+	margin: 1% 70%;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.menu:hover{
+	font-size: 25px;
+}
+
+.about{
+	position:absolute;
+	margin: 1% 77%;
+	color: grey;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+
+.about:hover{
+	font-size: 25px;
+}
+
+.contact{
+	position:absolute;
+	margin: 1% 84%;
+	color: white;
+	width: 9%;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.contact:hover{
+	font-size: 25px;
+}
+
+.login{
+	position:absolute;
+	margin: 48% 3%;
+	color: white;
+	width: 15%;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+.login:hover{
+	font-size: 25px;
+}
+
+.content1{
+	margin: 50% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	left: -200px;
+}
+
+.about_tlt{
+	position: absolute;
+	margin: 8% 65%;
+	color: black;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.blok_about_ct{
+	position: absolute;
+	margin: 7% 48%;
+	width: 40%;
+}
+
+.about_ct{
+	position:absolute;
+	margin: 20% 0%;
+	color: black;
+	font-size: 20px;
+	font-family: calibri;
+}
+
+.bingkai{
+	position: absolute;
+	margin: 37% 61%;
+	width: 192px;
+	height: 250px;
+	border-radius: 50%;
+	background: url("profil.jpg") no-repeat;
+	
+}
+
+.dev_txt{
+	position: absolute;
+	margin: 58% 56.5%;
+	width: 25%;
+	color: black;
+	font-size: 25px;
+	font-family: cursive;
+	
+}
+
+
+.contact_me{
+	margin: 135% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	position:absolute;
+	width: 100%;
+	height: 20%;
+	left: 0%;
+	background-color: #714C66;
+}
+
+.contact_me_txt{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	width: 53%;
+	margin: 2.5% 13%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.but2 {
+  border: none;
+  position: absolute;
+  color: white;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2.5% 82%;
+  transition-duration: 1.0s;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.button2 {
+  background-color: #2F2C2E; 
+  color: white; 
+  /* border: 2px solid blue; */
+}
+
+.button2:hover {
+  background-color: red;
+  color: white;
+}	
+
+.foot1{
+	margin: 142.5% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	position:absolute;
+	width: 100%;
+	height: 68%;
+	left: 0%;
+	background-color: #4E314B;
+}
+
+.x{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 5% 12%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.a1{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 10% 12%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.a2{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 15% 12%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.a3{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 20% 12%;
+	text-decoration: none;
+	padding: 0% 0%;
+	font-size: 40px;
+	font-family: "lucida handwriting";
+}
+
+.y{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 5% 45%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.b1{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 10% 45%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.b2{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 15% 45%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.b3{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 20% 45%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.b4{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 25% 45%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.z{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 5% 64%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.z1{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 10% 64%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.z2{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	width: 6%;
+	margin: 15% 64%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.z3{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	width: 5%;
+	margin: 20% 64%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.q{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	width: 10%;
+	margin: 5% 80.5%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.fa {
+  text-decoration: none;
+  font-size: 40px;
+  
+}
+
+.fa:hover {
+    opacity: 0.3;
+}
+
+.fa-facebook {
+  color: white;
+  position: absolute;
+  margin: 8.5% 81%;
+  
+}
+
+.fa-instagram {
+  color: white;
+  position: absolute;
+  margin: 8.5% 84%;
+}
+
+.fa-snapchat-ghost {
+  color: white;
+  margin: 8.5% 87%;
+  position: absolute;
+}
+
+.fa-twitter {
+  color: white;
+   margin: 12% 81%;
+  position: absolute;
+}
+
+.fa-whatsapp{
+	margin: 11.8% 84%;
+	position: absolute;
+	color: white;
+}
+
+.foot2{
+	margin: 174% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+	position:absolute;
+	width: 100%;
+	height: 7%;
+	left: 0%;
+	background-color: #463A45;
+}
+
+.copyright{
+	position:absolute;
+	font-family: tahoma;
+	color: white;
+	margin: 0.5% 2%;
+	padding: 0% 0%;
+	font-size: 20px;
+}
+
+.no1{
+	margin: 28% 63%;
+	font-size: 20px;
+	width: 10%;
+	font-family: cursive;
+	color: black;
+	position: absolute;
+}

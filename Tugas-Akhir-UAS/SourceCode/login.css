@@ -1,0 +1,107 @@
+.sewa_tlt{
+	position: absolute;
+	margin: 2% 3%;
+	color: black;
+	font-size: 40px;
+	font-family: lucida handwriting;
+}
+
+.login_tlt{
+	position: absolute;
+	margin: 10% 45%;
+	color: black;
+	font-size: 40px;
+	font-family: cursive;
+}
+
+.container{
+	position: absolute;
+	margin: 17% 34%;
+	width: 30%;
+	height: 50%;
+	border-radius: 20px;
+	background-color: #E8AAC0;
+}
+
+.email_txt{
+	position: absolute;
+	margin: 12% 12%;
+	font-size: 20px;
+	font-family: cursive;
+	color: white;
+}
+
+
+.pass_txt{
+	position: absolute;
+	margin: 25% 12%;
+	font-size: 20px;
+	font-family: cursive;
+	color: white;
+}
+
+.ed_email{
+	position: absolute;
+	margin: 16% 12%;
+	width: 73%;
+	border-radius: 10px;
+	font-size: 15px;
+	height: 10%;
+}
+
+.ed_pass{
+	position: absolute;
+	margin: 29% 12%;
+	width: 73%;
+	border-radius: 10px;
+	font-size: 15px;
+	height: 10%;
+}
+
+.reset{
+	position: absolute;
+	margin: 35% 49%;
+	width: 40%;
+	color: black;
+	font-family: calibri;
+}
+
+.sign{
+	position: absolute;
+	margin: 49% 8%;
+	width: 50%;
+	color: black;
+	font-family: calibri;
+}
+
+.but1 {
+  border: none;
+  position: absolute;
+  color: white;
+  padding: 15px 157px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 43% 35%;
+  transition-duration: 1.0s;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.button1 {
+  background-color: #9D5896; 
+  color: white; 
+  /* border: 2px solid blue; */
+}
+
+.button1:hover {
+  background-color: green;
+  color: white;
+}	
+
+.container2{
+	position: absolute;
+	height: 50%;
+	margin: 41% 35%;
+}
